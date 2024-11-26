@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.slicing_website_tokopedia_blog.twa",
+        "sha256_cert_fingerprints": ["06:1E:71:2D:03:3C:79:27:FB:C3:76:3E:35:F1:26:63:2B:C4:6D:D4:DF:D2:5A:75:8A:27:8F:67:DD:B1:F1:FD"]
+      }
+    }]
